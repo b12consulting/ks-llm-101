@@ -1,8 +1,9 @@
 [project]
 name = "ks-llm-101"
 version = "0.1.0"
-description = "Add your description here"
+description = "The fundamentals of LLMs: Chat templates, tool calling, structured output."
 readme = "README.md"
+authors = [{name = "Vincent Min", email = "vincent.min@b12-consulting.com"}]
 requires-python = ">=3.12"
 dependencies = [
     "ipykernel>=6.29.5",
